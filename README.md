@@ -71,3 +71,9 @@ Nếu bạn đã cài đặt tiện ích này, hãy:
 3. Tìm và xóa tiện ích EZQuiz
 4. Xóa dữ liệu duyệt web và cookie
 5. Đổi mật khẩu tài khoản đã sử dụng
+# ⚠️ CẢNH BÁO BẢO MẬT EZQUIZ
+
+![Cảnh báo](anh1.png)
+![Cảnh báo](anh2.png)
+![Cảnh báo](https://app.easyquiz.cc/)(web lại rất ngon)
+
