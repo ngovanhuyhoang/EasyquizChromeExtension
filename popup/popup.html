@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Easy Quiz Poly</title>
+    <link rel="stylesheet" href="popup.css" />
+    <link rel="stylesheet" href="tailwind.css" />
+  </head>
+  <body
+    class="bg-gradient-to-br from-gray-900 to-gray-800 text-white min-h-screen"
+  >
+    <div class="wrapper flex flex-col items-center w-full mx-auto p-4">
+      <!-- Header with glass effect -->
+      <header
+        class="w-full px-4 py-2 bg-white/10 backdrop-blur-sm rounded-lg flex justify-center items-center mb-4"
+      >
+        <p class="text-xs text-gray-300">Đăng nhập để sử dụng</p>
+      </header>
+
+      <!-- Main Content -->
+      <div class="flex flex-col items-center gap-4 w-full mb-4">
+        <button
+          id="btnLogin"
+          class="w-full p-3 bg-gradient-to-r from-blue-500 to-indigo-500 hover:from-blue-600 hover:to-indigo-600 hover:shadow-lg backdrop-blur rounded-xl transition-all duration-200 shadow-md shadow-blue-500/20 group flex items-center justify-center gap-3"
+        >
+          <div
+            class="w-6 h-6 rounded-full bg-white/20 flex items-center justify-center"
+          >
+            <span class="text-xl">🔑</span>
+          </div>
+          <span
+            class="font-medium text-white group-hover:text-blue-100 transition-colors"
+          >
+            ĐĂNG NHẬP
+          </span>
+        </button>
+      </div>
+
+      <!-- Info Section -->
+      <div class="w-full flex-grow">
+        <div class="bg-white/5 backdrop-blur-sm rounded-xl p-3">
+          <div class="text-blue-400 text-xs text-center">
+            Nếu không truy cập được có thể do wifi trường chặn
+            <br />Dùng 4G hoặc VPN để đăng nhập
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <footer class="w-full mt-4 bg-white/5 backdrop-blur-sm rounded-lg">
+        <!-- Bottom Section -->
+        <div class="px-4 py-2.5 flex items-center justify-center gap-6">
+          <a
+            class="text-sm text-gray-400 hover:text-blue-300 transition-colors flex items-center gap-2"
+            href="https://www.facebook.com/quizpoly"
+            target="blank"
+          >
+            <span>💬</span> Liên hệ
+          </a>
+          <a
+            class="text-sm text-gray-400 hover:text-blue-300 transition-colors flex items-center gap-2"
+            href="https://fb.com/groups/easyquiz"
+            target="blank"
+          >
+            <span>👥</span> Group FB
+          </a>
+        </div>
+      </footer>
+    </div>
+
+    <script src="./popup.js"></script>
+  </body>
+</html>

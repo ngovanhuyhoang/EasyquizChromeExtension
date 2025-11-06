@@ -1,0 +1,1 @@
+document.querySelector(".text-red-500.font-semibold").textContent="Những bạn sinh viên không làm qua SEB nhà trường sẽ lưu thông tin xử lý theo quy định và bài làm sẽ bị huỷ.";
