@@ -75,5 +75,5 @@ Nếu bạn đã cài đặt tiện ích này, hãy:
 
 ![Cảnh báo](anh1.png)
 ![Cảnh báo](anh2.png)
-![Cảnh báo](https://app.easyquiz.cc/)(web lại rất ngon)
+(https://app.easyquiz.cc/)(web lại rất ngon)
 
