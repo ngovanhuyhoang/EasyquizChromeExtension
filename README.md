@@ -40,8 +40,7 @@ Tiện ích bao gồm các thành phần đáng lo ngại:
 
 - [ap.js] Thu thập dữ liệu phiên cookie và xóa popup về việc sử dụng tool để gian lận (để cho sinh viên tưởng mình không bị phát hiện chăng?)
 - [alh_cookie.js]Trích xuất thông tin người dùng
-- `seb_noti.js`: Sửa đổi cảnh báo chống gian lận (hình như lưu trữ thông tin sinh viên tool và gửi ngược lại cho nhà trường)
-
+- `seb_noti.js`: Sửa đổi cảnh báo chống gian lận 
 
 ## ⚖️ Thông báo pháp lý
 
